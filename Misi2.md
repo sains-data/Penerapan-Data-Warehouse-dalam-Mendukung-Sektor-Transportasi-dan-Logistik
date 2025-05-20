@@ -15,7 +15,7 @@
 
 - **Integrasi Data Holistik**  
   Bangun data warehouse dari semua sistem → analisa menyeluruh.
-
+  
 - **Optimasi Rute dan Biaya**  
   Analisis multidimensi: jarak, bahan bakar, lalu lintas → rute efisien → biaya turun 15%.
 
