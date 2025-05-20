@@ -1,5 +1,3 @@
----
-
 ## BAB I - Ringkasan Kebutuhan dari Misi
 
 ### 1.1 Tantangan Utama
