@@ -42,7 +42,7 @@ Pendekatan yang digunakan: **Star Schema**
 - Tabel dimensi: waktu, kendaraan, produk, pelanggan, rute, sorting hub, dan insiden
 
 <p align="center">
-  <img src="images/image2.png" alt="Schema Diagram" width="70%">
+  <img src="https://github.com/user-attachments/assets/1e52fecf-c484-4650-8bbe-7a91a367e1e7" alt="Gambar" style="display: block; margin: 0 auto;">
 </p>
 
 ### 2.2 Relasi Antar Tabel
