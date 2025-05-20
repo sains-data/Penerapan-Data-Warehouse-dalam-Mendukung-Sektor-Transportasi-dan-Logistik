@@ -1,26 +1,3 @@
-# LAPORAN PRAKTIKUM ANALISIS BIG DATA
-
-<p align="center">
-  <img src="images/image1.png" alt="Logo" width="50%">
-</p>
-
-**Anggota Kelompok:**
-
-| Nama                     | NIM         |
-|--------------------------|-------------|
-| Lion Abdi Marga          | 121450047   |
-| Lia Alyani               | 121450138   |
-| Happy Syahrul Ramadhan   | 122450013   |
-| Eli Dwi Putra Berema     | 122450064   |
-| M. Deriansyah Okutra     | 122450101   |
-
-**Program Studi Sains Data**  
-**Fakultas Sains**  
-**Institut Teknologi Sumatera**  
-**Lampung Selatan**  
-**2025**
-
-
 ---
 
 ## BAB I - Ringkasan Kebutuhan dari Misi
