@@ -4,11 +4,8 @@
   <img src="images/image1.png" alt="Logo" width="50%">
 </p>
 
-<p align="center">
-  **Anggota Kelompok:**
-</p>
+**Anggota Kelompok:**
 
-<p align="center">
 | Nama                     | NIM         |
 |--------------------------|-------------|
 | Lion Abdi Marga          | 121450047   |
@@ -16,15 +13,12 @@
 | Happy Syahrul Ramadhan   | 122450013   |
 | Eli Dwi Putra Berema     | 122450064   |
 | M. Deriansyah Okutra     | 122450101   |
-</p>
 
-<p align="center">
-**Program Studi Sains Data**<br>
-**Fakultas Sains**<br>
-**Institut Teknologi Sumatera**<br>
-**Lampung Selatan**<br>
+**Program Studi Sains Data**  
+**Fakultas Sains**  
+**Institut Teknologi Sumatera**  
+**Lampung Selatan**  
 **2025**
-</p>
 
 
 ---
