@@ -1,25 +1,3 @@
-# LAPORAN TUGAS MISI PERTAMA
-# PERGUDANGAN DATA RA
-
-<img src="https://github.com/user-attachments/assets/1c73bab6-f989-4948-90e5-d7402f4d8998" alt="Gambar" style="display: block; margin: 0 auto; width: 50%;">
-
-
-**Anggota:**
-
-| Nama                    | NPM        |
-|-------------------------|------------|
-| Lion Abdi Marga         | 121450047  |
-| Lia Alyani              | 121450138  |
-| Happy Syahrul Ramadhan  | 122450013  |
-| Eli Dwi Putra Berema    | 122450064  |
-| M. Deriansyah Okutra    | 122450101  |
-
-**Program Studi Sains Data**
-**Fakultas Sains**
-**Institut Teknologi Sumatera**
-**Lampung Selatan**
-**2025**
-
 ## BAB 1
 ## Profil Industri & Masalah Bisnis
 
