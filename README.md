@@ -47,7 +47,7 @@ Mengembangkan data warehouse modern menggunakan SQL Server untuk mengonsolidasi 
 </ul>
 
 ## Tujuan Analitik & Pelaporan (BI) Berdasarkan Skema Data Warehouse Kami
-![eda_steps_analysis](https://github.com/user-attachments/assets/e9c151f1-3019-4955-b58e-197b6813b718)![eda_steps_analysis](https://github.com/user-attachments/assets/d045b1ea-1675-4d74-8d24-e671500b7c5b)
+![eda_steps_analysis](https://github.com/user-attachments/assets/e9c151f1-3019-4955-b58e-197b6813b718)
 
 
 Mengembangkan analitik berbasis SQL untuk memberikan wawasan terperinci mengenai:
