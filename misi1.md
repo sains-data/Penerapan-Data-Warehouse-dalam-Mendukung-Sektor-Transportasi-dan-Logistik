@@ -1,7 +1,7 @@
 # LAPORAN TUGAS MISI PERTAMA
 # PERGUDANGAN DATA RA
 
-<img src="https://github.com/user-attachments/assets/1c73bab6-f989-4948-90e5-d7402f4d8998" alt="Gambar" style="display: block; margin: 0 auto;">
+<img src="https://github.com/user-attachments/assets/1c73bab6-f989-4948-90e5-d7402f4d8998" alt="Gambar" style="display: block; margin: 0 auto; width: 50%;">
 
 
 **Anggota:**
