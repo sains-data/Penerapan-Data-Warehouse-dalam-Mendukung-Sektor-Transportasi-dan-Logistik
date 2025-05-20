@@ -64,7 +64,7 @@ Berikut adalah daftar stakeholder yang terlibat dalam pengembangan data warehous
 
 Tabel Fakta dan Dimensi (diagram dan penjelasan) berdasarkan permasalahan bisnis yang dihadapi, maka dapat diidentifikasi sejumlah kebutuhan bisnis yang dapat diselesaikan pada penjelasan berikut
 
-![Fakta dan Dimensi](images/image2.png)
+<img src="https://github.com/user-attachments/assets/1e52fecf-c484-4650-8bbe-7a91a367e1e7" alt="Gambar" style="display: block; margin: 0 auto; width: 50%;">
 
 ### 3.1 Tabel Fakta
 
