@@ -1,8 +1,7 @@
 # Penerapan-Data-Warehouse-dalam-Mendukung-Sektor-Transportasi-dan-Logistik
 ## Star Schema Data Warehouse
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1e52fecf-c484-4650-8bbe-7a91a367e1e7" alt="Gambar" style="display: block; margin: 0 auto;">
-</p>
+
+<img src="https://github.com/user-attachments/assets/1e52fecf-c484-4650-8bbe-7a91a367e1e7" alt="Gambar" style="display: block; margin: 0 auto;">
 
 
 ## Arsitektur Data Warehouse
